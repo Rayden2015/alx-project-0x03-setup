@@ -1,0 +1,15 @@
+{
+  "name": "alx-project-0x03",
+  "version": "1.0.0",
+  "description": "Alx Profrontend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nurudin",
+    "ALX"
+  ],
+  "author": "Nurudin Wahab Lartey",
+  "license": "ISC"
+}
